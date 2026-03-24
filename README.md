@@ -1,6 +1,6 @@
 # 🤖 Bot Discord Premium IA - Assistant & Concierge Intelligent
 
-> **Note :** Ce dépôt présente l'architecture logicielle d'un bot Discord de niveau "Premium". L'objectif de ce projet est de démontrer la maîtrise des environnements asynchrones en Python, la modularité du code via les `Cogs`, et l'intégration d'une Intelligence Artificielle au sein d'une communauté.
+> **Note :** Ce dépôt présente l'architecture logicielle d'un bot Discord de niveau "Premium" développé par Alan. L'objectif de ce projet est de démontrer la maîtrise des environnements asynchrones en Python, la modularité du code via les `Cogs`, et l'intégration d'une Intelligence Artificielle au sein d'une communauté.
 
 ## 🚀 À propos du projet
 Le **Bot Discord Premium IA** n'est pas un simple bot de commandes. C'est un véritable assistant communautaire conçu pour être fluide, scalable et hébergé 24/7. En utilisant des bibliothèques asynchrones comme `aiosqlite`, ce bot garantit qu'aucune requête en base de données ne viendra bloquer les interactions des autres utilisateurs, offrant une expérience utilisateur sans latence, même sur de gros serveurs.
